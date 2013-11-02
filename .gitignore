@@ -4,3 +4,10 @@
 *.jar
 *.war
 *.ear
+
+# Archivos innecesarios de Latex
+*.log
+*.gz*
+*.aux
+*.jpg
+*.png
